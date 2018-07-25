@@ -21,7 +21,7 @@ const createFareMultiplier=function (val){
  let  fareTripler=function (val2){
    return val2 *3;
  }
-const selectDifferentDrivers =function(driver,returnLastTwoDrivers){
-  return returnLastTwoDrivers;
+const selectDifferentDrivers =function(driver,returnFirstTwoDrivers){
+  return returnFirstTwoDrivers;
   
 }
