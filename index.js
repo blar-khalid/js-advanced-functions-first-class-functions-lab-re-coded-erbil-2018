@@ -14,4 +14,4 @@ const createFareMultiplier=function (val){
     return val*val;
   }
 }
-const fareMultiplier = createFareMultiplier();
+ const fareQuintupler = createFareMultiplier(5);
