@@ -14,4 +14,8 @@ const createFareMultiplier=function (val){
     return val*val;
   }
 }
- const fareQuintupler = createFareMultiplier(5);
+ const fareDoubler=function(val1){
+   
+   return val1*2;
+   
+ }
