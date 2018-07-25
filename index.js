@@ -22,6 +22,6 @@ const createFareMultiplier=function (val){
    return val2 *3;
  }
 const selectDifferentDrivers =function(driver,returnFirstTwoDrivers){
-  return returnFirstTwoDrivers;
+  return returnFirstTwoDrivers(driver);
   
 }
